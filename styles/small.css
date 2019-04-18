@@ -4,4 +4,22 @@
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
+    background-size: 100%;
+}
+/* Navigation */
+nav {
+    font-family: 'Righteous', cursive;
+}
+
+/* Article */
+article {
+    display: grid;
+    margin-top: 206px;
+    background-color: #414454;
+}
+
+article img {
+    width: 50%;
+    margin: 10px;
+    box-shadow: 3px 5px 12px;
 }
