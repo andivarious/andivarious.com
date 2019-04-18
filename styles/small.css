@@ -1,6 +1,6 @@
 /* Background */
 #page {
-    background-image: "../images/controller.jpeg";
+    background-image: url("\andivarious.com\images\controller.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
