@@ -1,0 +1,7 @@
+/* Background */
+#page {
+    background-image: "../images/controller.jpeg";
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
