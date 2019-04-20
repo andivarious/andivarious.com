@@ -8,14 +8,16 @@
 }
 /* Navigation */
 nav {
-    font-family: 'Righteous', cursive;
+    font-family: 'Bigshot One', cursive;
 }
 
 /* Article */
 article {
     display: grid;
-    margin-top: 206px;
+    grid-template-columns: 2fr 1fr;
+    margin-top: 42%;
     background-color: #414454;
+    font-family: 'Righteous', cursive;
 }
 
 article img {
